@@ -47,11 +47,11 @@ Configuration:
 Database Setup:
 1. Install PostgreSQL
 2. Create a new database for the application
+   
 3. Update application.properties with your database credentials:
-
-propertiesCopyspring.datasource.url=jdbc:postgresql://localhost:5432/your_database_name
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+`propertiesCopyspring.datasource.url=jdbc:postgresql://localhost:5432/your_database_name`
+`spring.datasource.username=your_username`
+`spring.datasource.password=your_password`
 
 Installation
 1. Clone the repository:
