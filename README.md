@@ -55,7 +55,7 @@ spring.datasource.password=your_password
 
 Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/TaskApplication.git
+git clone
 cd TaskApplication
 
 Build the project:
